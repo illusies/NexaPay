@@ -25,7 +25,7 @@ const Navbar = () => {
         {/* Logo - Left side */}
         <div className="flex items-center space-x-3 justify-self-start">
           <Logo />
-          <span className="text-white font-semibold text-lg">FlowPay</span>
+          <span className="text-white font-semibold text-lg">NexaPay</span>
         </div>
         
         {/* Navigation Menu - Center */}
